@@ -1,9 +1,11 @@
+
+
 set H3_PATH="https://github.com/Microchip-MPLAB-Harmony"
 
 cd ..
-
 mkdir h3
 cd h3
+
 git clone -b "v3.3.0"               %H3_PATH%/bsp.git
 git clone -b "10.2.0"               https://github.com/ARM-software/CMSIS-FreeRTOS.git
 git clone -b "v3.2.1"               %H3_PATH%/core.git

@@ -1,4 +1,4 @@
-
+#!/bin/sh
 
 cd ../lab1
 git reset --hard HEAD
