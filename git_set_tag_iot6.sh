@@ -1,7 +1,7 @@
 #!/bin/sh
 
-MY_TAG="v1.3.2"
-MY_COMMENT="third/final release"
+MY_TAG="v1.4.0"
+MY_COMMENT="fourth/final release"
 MY_GIT_REMOTE="https://github.com/sponkytoo"
 
 echo === lab1 ===
