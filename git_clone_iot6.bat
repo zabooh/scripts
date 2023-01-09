@@ -17,11 +17,11 @@ git clone -b "v3.3.0"               %H3_PATH%/net.git
 git clone -b "v4.0.0-stable"        https://github.com/wolfSSL/wolfssl.git
 cd ..
 
-git clone https://github.com/sponkytoo/lab1.git
-git clone https://github.com/sponkytoo/lab2.git
-git clone https://github.com/sponkytoo/lab3.git
-git clone https://github.com/sponkytoo/vm_server.git
-git clone https://github.com/sponkytoo/Lab_Manuals.git
+git clone https://github.com/zabooh/lab1.git
+git clone https://github.com/zabooh/lab2.git
+git clone https://github.com/zabooh/lab3.git
+git clone https://github.com/zabooh/vm_server.git
+git clone https://github.com/zabooh/Lab_Manuals.git
 
 cd scripts
 
